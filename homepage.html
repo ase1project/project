@@ -2,18 +2,18 @@
 {% load static %}
 {% block content %}
 <div class="container-fluid">
-     <div class="row">
-        <div class="col-9 p-3 ">
+     <div class="row p-0">
+        <div class="col-8 p-3 ">
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="{% static "mainpage/1061123.jpg" %}" class="img-fluid rounded mx-auto d-block mx-100 mh-100 "  alt="Responsive image">
+                        <img src="{% static "mainpage/1061123.jpg" %}" class="img-fluid rounded mx-auto d-block mx-100 "  alt="Responsive image">
                     </div>
                     <div class="carousel-item">
-                        <img src="{% static "mainpage/1061123.jpg" %}" class="img-fluid rounded mx-auto d-block mx-100 mh-100 "  alt="Responsive image">
+                        <img src="{% static "mainpage/1061123.jpg" %}" class="img-fluid rounded mx-auto d-block mx-100 "  alt="Responsive image">
                     </div>
                     <div class="carousel-item">
-                        <img src="{% static "mainpage/1061123.jpg" %}" class="img-fluid rounded mx-auto d-block mx-100 mh-100 "  alt="Responsive image">
+                        <img src="{% static "mainpage/1061123.jpg" %}" class="img-fluid rounded mx-auto d-block mx-100 "  alt="Responsive image">
                     </div>
                   </div>
                   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -26,8 +26,13 @@
                   </a>
         </div>
         </div>
-         <div class="col col-lg-2 p-5 border-left">
-            <form>
+         <div class="col pt-5 ">
+            <div class="container pt-5 pb-5 rounded border border-primary">
+
+                <h1 class="display-4 pb-3">
+                    Log in
+                </h1>
+                <form>
                   <div class="form-group">
                     <label for="exampleInputEmail1">User name</label>
                     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter User name">
@@ -49,6 +54,7 @@
                   </div>
                   <button type="submit" class="btn btn-primary">Submit</button>
             </form>
+            </div>
         </div>
    </div>
 </div>
