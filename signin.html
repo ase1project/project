@@ -1,0 +1,40 @@
+{% extends "homepage/base.html" %}
+{% load static %}
+{% block content %}
+
+    <div class="container p-5">
+        <div class="container border border-dark shadow-lg rounded mb-5 p-5 mainbox">
+            <div class="container p-5">
+                <div class="row px-5">
+                    <div class="col-lg-6 d-flex justify-content-center">
+                        <img class="border shadow rounded" src="{% static 'homepage/logo.jfif' %}" alt="logo" height="230" width="230">
+                    </div>
+                    <div class="col d-flex justify-content-center">
+                    <form method="post" action="">
+                        <h3>Log in <br></h3>
+                        {% csrf_token %}
+                        <div class="form-group">
+                            <input class="form-control" name="username" type = "text" placeholder="username">
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" name = "password"id="exampleInputPassword1" placeholder="password">
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary justify-content-center">Log in</button>
+                        </div>
+
+                                 {% for message in messages %}
+                                <p>{{ message }}</p>
+                                {% endfor %}
+
+                        <small  id="emailHelp" class="form-text ">Didn't have an account?<a class=" text-decoration-none text-dark" href="{% url 'signup' %}">create account</a></small>
+                    </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+{% endblock content %}
