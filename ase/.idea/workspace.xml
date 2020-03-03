@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="552c310c-d9f2-442d-8dba-2ec16a612807" name="Default Changelist" comment="" />
+    <list default="true" id="552c310c-d9f2-442d-8dba-2ec16a612807" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/car1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/car1_hGGJyMf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/car2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/home_2f0C4JB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/home_goiPKji.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/mani.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/mani_SfqT14N.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/mani_oPXAFKF.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/templates/profiles/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/templates/profiles/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ase/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ase/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ase/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ase/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/templates/userapp/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/userapp/templates/userapp/base.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +44,8 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -26,22 +55,28 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Y3LcFJAJOuBLb6knMLRr9xIlzf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/profiles/templates/profiles" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ase classes\project\ase\profiles\templates\profiles" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\ase classes\practice\ase\homepage\templates\homepage" />
     </key>
@@ -127,7 +162,8 @@
       <workItem from="1582947121959" duration="6000" />
       <workItem from="1582966652977" duration="111000" />
       <workItem from="1583202565791" duration="1208000" />
-      <workItem from="1583207390247" duration="1532000" />
+      <workItem from="1583207390247" duration="1780000" />
+      <workItem from="1583227778015" duration="8808000" />
     </task>
     <servers />
   </component>
@@ -164,7 +200,9 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -174,6 +212,9 @@
         <option value="1" />
       </set>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="92" key="#Notifications" timestamp="1583208654514">
@@ -188,26 +229,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="524" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1582168493165" />
-    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1583208901151">
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1583233043099">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583208901151" />
-    <state width="1493" height="94" key="GridCell.Tab.0.bottom" timestamp="1583205064034">
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583233043099" />
+    <state width="721" height="94" key="GridCell.Tab.0.bottom" timestamp="1583233643292">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="94" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583205064034" />
-    <state width="1493" height="94" key="GridCell.Tab.0.center" timestamp="1583205064034">
+    <state width="721" height="94" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583233643292" />
+    <state width="721" height="94" key="GridCell.Tab.0.center" timestamp="1583233643292">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="94" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583205064034" />
-    <state width="1493" height="94" key="GridCell.Tab.0.left" timestamp="1583205064034">
+    <state width="721" height="94" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583233643292" />
+    <state width="721" height="94" key="GridCell.Tab.0.left" timestamp="1583233643292">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="94" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583205064034" />
-    <state width="1493" height="94" key="GridCell.Tab.0.right" timestamp="1583205064034">
+    <state width="721" height="94" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583233643292" />
+    <state width="721" height="94" key="GridCell.Tab.0.right" timestamp="1583233643292">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="94" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583205064034" />
+    <state width="721" height="94" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583233643292" />
     <state x="277" y="76" key="SettingsEditor" timestamp="1583208939834">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -216,14 +257,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1583208459746" />
-    <state x="849" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1583207391539">
+    <state x="849" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1583227782076">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="849" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583207391539" />
-    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583208951117">
+    <state x="849" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583227782076" />
+    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583236774993">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1583208951117" />
+    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1583236774993" />
     <state x="773" y="0" width="738" height="864" key="find.popup" timestamp="1582732368603">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
