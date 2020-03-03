@@ -1,0 +1,29 @@
+{%  extends 'userapp/base.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+<div class="container-fluid pt-5">
+        <div class="row">
+        <div class="col">
+            <h5>Items Shared</h5>
+            {% for item in items %}
+                <div class="list-group">
+                    <li class="list-group">{{ item.item }}</li>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="col text-center">
+            <h5>Column2</h5>
+        </div>
+        <div class="col text-right">
+            <h5>Items Borrowed</h5>
+            {% for item in items %}
+                <div class="list-group">
+                    <li class="list-group">{{ item.item }}</li>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock content %}
