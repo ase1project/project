@@ -20,19 +20,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1Y3LcFJAJOuBLb6knMLRr9xIlzf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/webapp/ase1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -120,13 +127,59 @@
       <workItem from="1582947121959" duration="6000" />
       <workItem from="1582966652977" duration="111000" />
       <workItem from="1583202565791" duration="1208000" />
+      <workItem from="1583207390247" duration="1532000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/.." />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="92" key="#Notifications" timestamp="1583208654514">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="92" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1583208654514" />
     <state x="722" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582175458085">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -135,10 +188,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="524" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1582168493165" />
-    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1582167028836">
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1583208901151">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1582167028836" />
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583208901151" />
     <state width="1493" height="94" key="GridCell.Tab.0.bottom" timestamp="1583205064034">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -155,17 +208,29 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="94" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583205064034" />
-    <state x="277" y="76" key="SettingsEditor" timestamp="1582449810619">
+    <state x="277" y="76" key="SettingsEditor" timestamp="1583208939834">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1582449810619" />
-    <state x="849" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1583202566135">
+    <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583208939834" />
+    <state x="361" y="166" key="Vcs.Push.Dialog.v2" timestamp="1583208459746">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="849" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583202566135" />
+    <state x="361" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1583208459746" />
+    <state x="849" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1583207391539">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="849" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583207391539" />
+    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583208951117">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1583208951117" />
     <state x="773" y="0" width="738" height="864" key="find.popup" timestamp="1582732368603">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="773" y="0" width="738" height="864" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1582732368603" />
+    <state x="569" y="225" key="git4idea.merge.GitMergeDialog" timestamp="1583208636287">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="569" y="225" key="git4idea.merge.GitMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1583208636287" />
   </component>
 </project>
