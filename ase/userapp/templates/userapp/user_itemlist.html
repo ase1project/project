@@ -3,12 +3,12 @@
 {% load crispy_forms_tags %}
 
 {% block content %}
-
-    <div class="container md-auto">
+    <div class="container pt-5">
+         <div class="container md-auto pt-5">
         {% if user.username == view.kwargs.username %}
         {% for item in items%}
             <div class="container border-right border-left p-4">
-                <div class="container p-3 shadow-lg">
+                <div class="container p-3 shadow-lg" data-aos="zoom-out-up">
                     <div class="row">
                     <div class="col">
                         <h6>Name</h6>
@@ -30,24 +30,9 @@
                 </div>
             </div>
         {% endfor %}
-            {% else %}
-            <a href="{% url 'asa' %}"></a>
         {% endif %}
 
     </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    </div>
 
 {% endblock content %}

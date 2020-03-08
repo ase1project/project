@@ -11,5 +11,4 @@ urlpatterns = [
     path('itemlist/<int:pk>/update/', ItemlistUpdateview.as_view(), name='Itemlist-update'),
     path('itemlist/<int:pk>/delete/', Itemlistdeleteview.as_view(), name='Itemlist-delete'),
     path('user/<str:username>', UserItemlist.as_view(), name='user-itemslist'),
-    path('doola', views.ddd, name='asa'),
 ]

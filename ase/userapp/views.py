@@ -4,20 +4,15 @@ from .models import Itemlist
 from django.contrib.auth.models import User
 from django.views.generic import ListView, DetailView, CreateView, UpdateView, DeleteView, TemplateView
 from django.contrib.auth.mixins import LoginRequiredMixin, UserPassesTestMixin
+from profiles.forms import BackgroundImageForm
 
-handler403 = 'dashboard'
 
 
 @login_required
 def dashboard(request):
     user = request.user
-    context = {'items': user.itemlist_set.all(),'form':user.itemlist_set.all()}
+    context = {'items': user.itemlist_set.all(), 'form': user.itemlist_set.all()}
     return render(request, 'userapp/dashboard.html', context)
-
-
-@login_required
-def ddd(request):
-    return render(request, 'userapp/asa.html')
 
 
 class UserItemlist(LoginRequiredMixin, UserPassesTestMixin, ListView):

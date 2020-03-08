@@ -23,4 +23,12 @@ class Profiles(models.Model):
             img.save(self.image.path)
 
 
+class Backgroundimage(models.Model):
+    user = models.OneToOneField(User, on_delete=models.CASCADE, primary_key=True)
+    bg = models.ImageField(default='background/default.jpg', upload_to='background')
 
+    def __str__(self):
+        return f'{self.user.username} Backgroundimage'
+
+    def save(self, *args, **kwargs):
+        super().save(*args, **kwargs)

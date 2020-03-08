@@ -2,34 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="552c310c-d9f2-442d-8dba-2ec16a612807" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/car1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/car1_hGGJyMf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/car2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/home.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/home_2f0C4JB.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/home_goiPKji.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/mani.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/mani_SfqT14N.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile_pics/mani_oPXAFKF.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/signals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/templates/profiles/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/templates/profiles/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/profiles/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/432824.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/432824_37nN9JO.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/432824_PI8enRk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/432824_WbeLfBR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/432824_ygNev7x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/516500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/541805.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/545919.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/545919_UXZAoF5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/545919_zo6fvZ5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/602089.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/714030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/996510.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background/default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/26963.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/432824.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/432824_TR6bdPc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/533007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/533007_FUfWOSW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/541805.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/profile_pics/605585.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/migrations/0002_backgroundimage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/migrations/0003_auto_20200305_1726.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/migrations/0004_auto_20200308_1223.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/static/profiles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profiles/templates/profiles/back.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ase/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ase/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ase/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ase/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/signals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/templates/profiles/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/templates/profiles/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/templates/profiles/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profiles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/templates/userapp/Itemlist_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/userapp/templates/userapp/Itemlist_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/userapp/templates/userapp/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/userapp/templates/userapp/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/templates/userapp/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/userapp/templates/userapp/dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/templates/userapp/user_itemlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/userapp/templates/userapp/user_itemlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/userapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/userapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +57,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -69,16 +84,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/profiles/templates/profiles" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/media/background" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\ase classes\project\ase\profiles\templates\profiles" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\ase classes\practice\ase\homepage\templates\homepage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ase classes\project\ase\media\background" />
+      <recent name="F:\ase classes\project\ase\profiles\templates\profiles" />
     </key>
   </component>
   <component name="RunManager">
@@ -164,6 +180,12 @@
       <workItem from="1583202565791" duration="1208000" />
       <workItem from="1583207390247" duration="1780000" />
       <workItem from="1583227778015" duration="8808000" />
+      <workItem from="1583396943156" duration="72000" />
+      <workItem from="1583407677062" duration="3586000" />
+      <workItem from="1583544536738" duration="2475000" />
+      <workItem from="1583636143514" duration="2803000" />
+      <workItem from="1583639183948" duration="713000" />
+      <workItem from="1583650122264" duration="7907000" />
     </task>
     <servers />
   </component>
@@ -229,26 +251,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="524" y="236" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1582168493165" />
-    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1583233043099">
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1583639311338">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583233043099" />
-    <state width="721" height="94" key="GridCell.Tab.0.bottom" timestamp="1583233643292">
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583639311338" />
+    <state width="1493" height="94" key="GridCell.Tab.0.bottom" timestamp="1583660431122">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="721" height="94" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583233643292" />
-    <state width="721" height="94" key="GridCell.Tab.0.center" timestamp="1583233643292">
+    <state width="1493" height="94" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583660431122" />
+    <state width="1493" height="94" key="GridCell.Tab.0.center" timestamp="1583660431122">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="721" height="94" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583233643292" />
-    <state width="721" height="94" key="GridCell.Tab.0.left" timestamp="1583233643292">
+    <state width="1493" height="94" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583660431122" />
+    <state width="1493" height="94" key="GridCell.Tab.0.left" timestamp="1583660431122">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="721" height="94" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583233643292" />
-    <state width="721" height="94" key="GridCell.Tab.0.right" timestamp="1583233643292">
+    <state width="1493" height="94" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583660431122" />
+    <state width="1493" height="94" key="GridCell.Tab.0.right" timestamp="1583660431122">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="721" height="94" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583233643292" />
+    <state width="1493" height="94" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583660431122" />
     <state x="277" y="76" key="SettingsEditor" timestamp="1583208939834">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -257,10 +279,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1583208459746" />
-    <state x="849" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1583227782076">
+    <state x="849" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1583650123933">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="849" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583227782076" />
+    <state x="849" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583650123933" />
     <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583236774993">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
